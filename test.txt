@@ -5,3 +5,4 @@ this is other git
 this is git
 >>>>>>> featurel
 creating a new branch is quick and simple
+this test
