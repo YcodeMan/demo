@@ -1,8 +1,5 @@
 this is text
-<<<<<<< HEAD
 this is other git
-=======
 this is git
->>>>>>> featurel
 creating a new branch is quick and simple
 this is issue
